@@ -1,4 +1,4 @@
-My 
+My site is live at https://pavan-162.github.io/E-commerce-product-cards/
 E-commerce Product Cards
 Overview
 The E-commerce Product Cards project is a sleek and responsive web component that displays product information such as images, prices, ratings, and descriptions, along with an "Add to Cart" feature. This project is designed to replicate part of an e-commerce site and provides an interactive interface that makes it easy for users to view products and add them to their shopping cart.
@@ -28,7 +28,7 @@ Open your terminal or command prompt and run the following command:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ecommerce-product-cards.git
+git clone https://github.com/Pavan-162/ecommerce-product-cards.git
 Navigate to the Project Directory:
 
 Once cloned, navigate to the project folder:
